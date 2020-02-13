@@ -11,7 +11,10 @@ int main (int argc, char *argv[]){
     }
     printf("%s\n", buffer);
     printf("%s\n", buffer);
+<<<<<<< HEAD
     printf("%s\n", buffer);
     printf("%s\n", buffer);
+=======
+>>>>>>> 4f2bbddc0eb350b0c7168f85277d769ffcf9e7c2
   }
 }
